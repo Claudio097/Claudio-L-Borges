@@ -1,6 +1,7 @@
 ## Bem-vindo(a) ao perfil do Claudio-L-Borges 😁
 
-## SOBRE MIM
+## SOBRE MIM 
+    Embora eu ainda não tenha experiência prática, estou comprometido em entender os fundamentos e construir uma base sólida.
 
  <div>
    <a href="https://github.com/Claudio097">
